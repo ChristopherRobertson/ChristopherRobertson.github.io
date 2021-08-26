@@ -2,5 +2,14 @@
         background: cadetblue;
         text-align: center;
         font-family: Arial;
-    }
+}
+
+.Bio-container{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 5px;
+    align-items: center;
+    justify-self: center;
+}
 
