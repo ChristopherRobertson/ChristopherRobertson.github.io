@@ -1,6 +1,7 @@
 .Bio{
         text-align: center;
         font-family: Arial;
+        background-color: transparent;
 }
 
 .Bio-container{
@@ -11,6 +12,7 @@
     align-items: center;
     justify-self: center;
     margin: 150px;
+    background-color: transparent;
 }
 
 .Card-container{
