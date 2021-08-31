@@ -2,7 +2,7 @@
 
 Landing page for my bio information and portfolio website
 
-## Useage
+## Usage
 
 Goto https://ChristopherRobertson.github.io to view
 
